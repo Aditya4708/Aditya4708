@@ -88,15 +88,6 @@ const aditya = {
 
 ---
 
-## 🎯 2025 Goals
-
-- [ ] 🔧 Complete and deploy **finance-app**
-- [ ] 💼 Land a great internship
-- [ ] 🌱 Master **Node.js** + backend development
-- [ ] 🤝 Contribute to **open source** projects
-- [ ] 📚 Build 3+ portfolio-worthy projects
-
----
 
 ## 🤝 Let's Connect
 
