@@ -35,21 +35,17 @@ const aditya = {
 
 <div align="center">
 
-### ◈ Languages
-![JavaScript](https://img.shields.io/badge/⚡_JavaScript-0a0f1e?style=flat-square&logo=javascript&logoColor=a8d8f0&labelColor=1b2a4a)
-![C](https://img.shields.io/badge/◈_C-0a0f1e?style=flat-square&logo=c&logoColor=a8d8f0&labelColor=1b2a4a)
-![C++](https://img.shields.io/badge/◈_C++-0a0f1e?style=flat-square&logo=cplusplus&logoColor=a8d8f0&labelColor=1b2a4a)
+### Languages
+<img src="https://skillicons.dev/icons?i=js,c,cpp&theme=dark" />
 
-### ◈ Frontend
-![React](https://img.shields.io/badge/⚛_React-0a0f1e?style=flat-square&logo=react&logoColor=a8d8f0&labelColor=1b2a4a)
-![HTML5](https://img.shields.io/badge/◈_HTML5-0a0f1e?style=flat-square&logo=html5&logoColor=a8d8f0&labelColor=1b2a4a)
-![CSS3](https://img.shields.io/badge/◈_CSS3-0a0f1e?style=flat-square&logo=css3&logoColor=a8d8f0&labelColor=1b2a4a)
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
 
-### ◈ Database & Tools
-![MySQL](https://img.shields.io/badge/◈_MySQL-0a0f1e?style=flat-square&logo=mysql&logoColor=a8d8f0&labelColor=1b2a4a)
-![Git](https://img.shields.io/badge/◈_Git-0a0f1e?style=flat-square&logo=git&logoColor=a8d8f0&labelColor=1b2a4a)
-![GitHub](https://img.shields.io/badge/◈_GitHub-0a0f1e?style=flat-square&logo=github&logoColor=a8d8f0&labelColor=1b2a4a)
-![VS Code](https://img.shields.io/badge/◈_VS_Code-0a0f1e?style=flat-square&logo=visual-studio-code&logoColor=a8d8f0&labelColor=1b2a4a)
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark" />
+
+### Database & Tools
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" />
 
 </div>
 
@@ -106,11 +102,9 @@ const aditya = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/▸_LINKEDIN-0a0f1e?style=flat-square&logo=linkedin&logoColor=a8d8f0&labelColor=1b2a4a&logoWidth=20)](https://www.linkedin.com/in/aditya-nambiar-ce/)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/▸_GMAIL-0a0f1e?style=flat-square&logo=gmail&logoColor=a8d8f0&labelColor=1b2a4a&logoWidth=20)](mailto:adityanambiar2005@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/▸_GITHUB-0a0f1e?style=flat-square&logo=github&logoColor=a8d8f0&labelColor=1b2a4a&logoWidth=20)](https://github.com/Aditya4708)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0f1e?style=for-the-badge&logo=linkedin&logoColor=a8d8f0&labelColor=1b2a4a)](https://www.linkedin.com/in/aditya-nambiar-ce/)
+[![Gmail](https://img.shields.io/badge/Gmail-0a0f1e?style=for-the-badge&logo=gmail&logoColor=a8d8f0&labelColor=1b2a4a)](mailto:adityanambiar2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0f1e?style=for-the-badge&logo=github&logoColor=a8d8f0&labelColor=1b2a4a)](https://github.com/Aditya4708)
 
 </div>
 
